@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:user_id;datatype:int,name:name;datatype:string,name:address;datatype:string,name:state;datatype:string,name:district;datatype:string,name:gender;datatype:string,name:contact;datatype:int,name:email;datatype:string,name:image;datatype:string,name:password;datatype:string,name:dob;datatype:string" />
+	<infoitem key="UD_needdetiles" value="name:id;datatype:int,name:user_id;datatype:int,name:category;datatype:string,name:p_name;datatype:string,name:Descriptions;datatype:string,name:district;datatype:string,name:city;datatype:string,name:post_date;datatype:string,name:with_date;datatype:string,name:owner_mail;datatype:string,name:status;datatype:string" />
+</info>

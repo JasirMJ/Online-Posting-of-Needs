@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_chatreply" value="name:id;datatype:int,name:msg;datatype:string,name:fromid;datatype:int,name:toid;datatype:int,name:status;datatype:string,name:attime;datatype:string" />
+</info>

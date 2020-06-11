@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_needverification" value="name:id;datatype:int,name:user_id;datatype:int,name:category;datatype:string,name:p_name;datatype:string,name:Descriptions;datatype:string,name:district;datatype:string,name:city;datatype:string,name:post_date;datatype:string,name:with_date;datatype:string,name:owner_mail;datatype:string,name:status;datatype:string" />
+</info>
